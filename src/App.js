@@ -12,7 +12,7 @@ function App() {
       <BlogBlock 
       category="новости"
       backgroundImage="https://cdn.discordapp.com/attachments/981615157878874152/1179112258769530932/namroud-gorguis-FZWivbri0Xk-unsplash_1.jpg?ex=657898dd&is=656623dd&hm=99633b2b5f17e78d75184257bed8c36fbeeb9cd313d12706d13c68a41ac2d4c3&"
-      title="как я сделал сайт блог за неделю"
+      title="темир псеунов атлет в апекс легенды"
       date="29.11.2023"
       link="#"
       />
