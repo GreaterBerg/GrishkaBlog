@@ -10,7 +10,7 @@ import temir from './photo_2025-05-07_22-22-38.jpg';
 import temik from './photo_2025-05-07_22-22-23.jpg';
 import irina from './photo_2025-05-07_22-22-18.jpg';
 import temir2 from './photo_2025-04-13_20-32-33.png';
-import zombieferma from 'photo_2025-05-12_22-44-45.jpg';
+import zombieferma from './photo_2025-05-12_22-44-45.jpg';
 
 function App() {
   return (
