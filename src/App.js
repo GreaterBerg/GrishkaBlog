@@ -18,6 +18,9 @@ import spiderman from './video_2025-05-17_20-04-34.mp4';
 function App() {
   return (
     <div>
+      <video class="Amik" preload="auto" loop autoplay muted>
+      <source src={spiderman} type="video/mp4"/>
+     </video>
       <img src={zombieferma} alt="Amik" class="Amik"/>
       <img src={Amik} alt="Amik" class="Amik"/>
       <img src={bururki} alt="Amik" class="Amik"/>
@@ -26,9 +29,7 @@ function App() {
       <img src={temik} alt="Amik" class="Amik"/>
       <img src={irina} alt="Amik" class="Amik"/>
       <img src={temir2} alt="Amik" class="Amik"/>
-      <video class="Amik" >
-      <source src={spiderman} type="video/mp4"/>
-     </video>
+      
     </div>
   );
 }
