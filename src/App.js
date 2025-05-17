@@ -18,7 +18,7 @@ import spiderman from './video_2025-05-17_20-04-34.mp4';
 function App() {
   return (
     <div>
-      <video class="Amik" preload="auto" loop autoplay muted>
+      <video class="Amik" preload="auto" controls>
       <source src={spiderman} type="video/mp4"/>
      </video>
       <img src={zombieferma} alt="Amik" class="Amik"/>
