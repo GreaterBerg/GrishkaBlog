@@ -28,7 +28,7 @@ function App() {
       <img src={temir2} alt="Amik" class="Amik"/>
       <video loop autoplay muted preload="auto" class="Amik">
       <source src={spiderman} type="video/mp4">
-      </video>
+    </video>
     </div>
   );
 }
