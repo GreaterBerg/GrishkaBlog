@@ -29,7 +29,7 @@ function App() {
       <video width="750" height="500" controls >
       <source src={spiderman} type="video/mp4"/>
      </video>
-    
+    </div>
   );
 }
 
