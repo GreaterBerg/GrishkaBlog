@@ -26,13 +26,7 @@ function App() {
       <img src={temik} alt="Amik" class="Amik"/>
       <img src={irina} alt="Amik" class="Amik"/>
       <img src={temir2} alt="Amik" class="Amik"/>
-      <div class="video">
-        <video loop autoplay muted width="70%" preload="auto" class="Amik">
-            <source src={spiderVideo} type="video/mp4">
-            bobrik
-        </video>
-    </div>
-    </div>
+      <video loop autoplay muted width="70%" preload="auto" class="Amik" src={spiderVideo}/>
     
   );
 }
