@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
 .App {
   text-align: center;
 }
@@ -42,4 +44,7 @@
   width: 100%;
   height: auto;
   border-radius: 8%;
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
 }
