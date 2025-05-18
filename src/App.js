@@ -22,7 +22,6 @@ function App() {
       <video class="Amik" preload="auto" controls poster={moneyguy}>
       <source src={spiderman} type="video/mp4"/>
      </video>
-      <img src={zombieferma} alt="Amik" class="Amik"/>
       <img src={Amik} alt="Amik" class="Amik"/>
       <img src={bururki} alt="Amik" class="Amik"/>
       <img src={gumiki} alt="Amik" class="Amik"/>
