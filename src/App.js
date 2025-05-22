@@ -22,7 +22,7 @@ import temikPoster from './ангелинкагелик.png';
 import madin from './madik.mp4';
 import madinPoster from './ангелинкагелик.png';
 
-import abrek from './abrek.MOV';
+import abrek from './abrek.mp4';
 import abrekPoster from './ангелинкагелик.png';
 
 import azak from './azak.MP4';
@@ -34,7 +34,7 @@ import azacPoster from './ангелинкагелик.png';
 import amik from './amir.mp4';
 import amikPoster from './ангелинкагелик.png';
 
-import danam from './makayo.MOV';
+import danam from './makayo.mp4';
 import danamPoster from './ангелинкагелик.png';
 
 import kantik from './kantik.mp4';
@@ -43,13 +43,13 @@ import kantikPoster from './ангелинкагелик.png';
 import madina from './madina.MP4';
 import madinaPoster from './ангелинкагелик.png';
 
-import milana from './milana.MOV';
+import milana from './milana.mp4';
 import milanaPoster from './ангелинкагелик.png';
 
-import sveta from './sveta.MOV';
+import sveta from './sveta.mp4';
 import svetaPoster from './ангелинкагелик.png';
 
-import temir from './temir.MOV';
+import temir from './temir.mp4';
 import temirPoster from './ангелинкагелик.png';
 
 import shamil from './shamil (2).MP4';
