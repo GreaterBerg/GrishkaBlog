@@ -63,7 +63,6 @@ function App() {
       <source src={angelinka} type="video/mp4"/>
      </video>
     
-    <div>
       <video class="Amik" controls poster={angelinkaPoster}>
       <source src={danachi} type="video/mp4"/>
      </video>
