@@ -80,7 +80,7 @@ function App() {
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
-      <source src={abrek} type="video/mov"/>
+      <source src={abrek} type="video/mp4"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
@@ -96,7 +96,7 @@ function App() {
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
-      <source src={danam} type="video/mov"/>
+      <source src={danam} type="video/mp4"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
@@ -108,15 +108,15 @@ function App() {
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
-      <source src={milana} type="video/mov"/>
+      <source src={milana} type="video/mp4"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
-      <source src={sveta} type="video/mov"/>
+      <source src={sveta} type="video/mp4"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
-      <source src={temir} type="video/mov"/>
+      <source src={temir} type="video/mp4"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster} playsinline>
