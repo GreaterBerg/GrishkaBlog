@@ -59,63 +59,63 @@ import shamilPoster from './ангелинкагелик.png';
 function App() {
   return (
     <div>
-      <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+      <video class="Amik" controls poster={angelinkaPoster}>
       <source src={danachi} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={emma} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={temik} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={madin} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={abrek} type="video/mov"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={azak} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={azac} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={amik} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={danam} type="video/mov"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={kantik} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={madina} type="video/mp4"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={milana} type="video/mov"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={sveta} type="video/mov"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={temir} type="video/mov"/>
      </video>
 
-    <video class="Amik" preload="auto" controls poster={angelinkaPoster}>
+    <video class="Amik" controls poster={angelinkaPoster}>
       <source src={shamil} type="video/mp4"/>
      </video>
     </div>
