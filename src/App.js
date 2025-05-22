@@ -57,7 +57,7 @@ import shamilPoster from './ангелинкагелик.png';
 
 
 function App() {
-  return (\
+  return (
     <div>
       <video class="Amik" controls poster={angelinkaPoster}>
       <source src={angelinka} type="video/mp4"/>
