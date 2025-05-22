@@ -57,7 +57,12 @@ import shamilPoster from './ангелинкагелик.png';
 
 
 function App() {
-  return (
+  return (\
+    <div>
+      <video class="Amik" controls poster={angelinkaPoster}>
+      <source src={angelinka} type="video/mp4"/>
+     </video>
+    
     <div>
       <video class="Amik" controls poster={angelinkaPoster}>
       <source src={danachi} type="video/mp4"/>
@@ -76,7 +81,7 @@ function App() {
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
-      <source src={abrek} type="video/mp4"/>
+      <source src={abrek} type="video/mov"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
@@ -92,7 +97,7 @@ function App() {
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
-      <source src={danam} type="video/mp4"/>
+      <source src={danam} type="video/mov"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
@@ -104,15 +109,15 @@ function App() {
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
-      <source src={milana} type="video/mp4"/>
+      <source src={milana} type="video/mov"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
-      <source src={sveta} type="video/mp4"/>
+      <source src={sveta} type="video/mov"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
-      <source src={temir} type="video/mp4"/>
+      <source src={temir} type="video/mov"/>
      </video>
 
     <video class="Amik" controls poster={angelinkaPoster}>
