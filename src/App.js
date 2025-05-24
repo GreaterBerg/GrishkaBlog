@@ -55,6 +55,14 @@ import temirPoster from './photo_2025-05-22_15-00-24.jpg';
 import shamil from './shamil (2).MP4';
 import shamilPoster from './photo_2025-05-22_15-00-33.jpg';
 
+import baslan from './5943485289260565981.mp4';
+import baslanPoster from './IMG_1051.jpeg';
+
+import elpana from './2132940330699290682.mp4';
+import ellanaPoster from './IMG_1052.jpeg';
+
+import kastokov from './-2238492891504237733.mp4';
+import kastokovPoster from './IMG_1050.jpeg';
 
 function App() {
   return (
@@ -119,6 +127,18 @@ function App() {
       <source src={temir} type="video/mp4"/>
      </video>
 
+    <video class="Amik" controls poster={baslanPoster} playsinline>
+      <source src={baslan} type="video/mp4"/>
+     </video>
+    
+    <video class="Amik" controls poster={ellanaPoster} playsinline>
+      <source src={ellana} type="video/mp4"/>
+     </video>
+    
+    <video class="Amik" controls poster={kastokovPoster} playsinline>
+      <source src={kastokov} type="video/mp4"/>
+     </video>
+    
     <video class="Amik" controls poster={shamilPoster} playsinline>
       <source src={shamil} type="video/mp4"/>
      </video>
