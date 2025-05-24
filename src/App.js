@@ -58,7 +58,7 @@ import shamilPoster from './photo_2025-05-22_15-00-33.jpg';
 import baslan from './5943485289260565981.mp4';
 import baslanPoster from './IMG_1051.jpeg';
 
-import elpana from './2132940330699290682.mp4';
+import ellana from './2132940330699290682.mp4';
 import ellanaPoster from './IMG_1052.jpeg';
 
 import kastokov from './-2238492891504237733.mp4';
